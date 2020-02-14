@@ -1,1 +1,0 @@
-{"eu": 1, "estar": 1, "pouco": 1, "b\u00eabado": 2}
